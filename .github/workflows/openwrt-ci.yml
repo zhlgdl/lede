@@ -65,7 +65,7 @@ jobs:
           git clone https://github.com/openwrt-develop/luci-theme-atmaterial.git
           git clone https://github.com/tzxiaozhen88/luci-app-koolproxyR.git
           git clone https://github.com/rosywrt/luci-theme-rosy.git
-          git clone https://github.com/destan19/OpenAppFilter.gitt
+          git clone https://github.com/destan19/OpenAppFilter.git
           
           
       - name: Update feeds
